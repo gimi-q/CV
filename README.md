@@ -16,7 +16,7 @@
 
 #### Founder of Roots of London Gardens (2013 to present)
 
-EnglishTutorsLive is an online English learning community that connects teachers and students looking for intensive and     dynamic Skype English classes. Founder of the project, designed and implemented the ongoing web marketing plan based on knowledge of SEO copywriting and content optimization. Continuing to oversee and manage the growth of the online community and business direction.
+
 
 #### Net a porter
 
