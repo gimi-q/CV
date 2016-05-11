@@ -75,11 +75,11 @@ Responsible for managing the day to day running of the website and warehouse fro
 
  Leading teams of upto 15 people into the mountains of Albania as part of B3Ps charity projects in Thethi - the highest and wildest part of Albania - key responsibilities were: 
  
- -Marketing the project and attracting paying potential candidates from Europe, Australia , America and Canada.
+ - Marketing the project and attracting paying potential candidates from Europe, Australia , America and Canada.
  
- -Organising and helping teach permaculture and sustainability curriculums to students from all over the world.
+ - Organising and helping teach permaculture and sustainability curriculums to students from all over the world.
  
- -Teaching local school children english language and environmental conservation skills.
+ - Teaching local school children english language and environmental conservation skills.
 
 
 #### Net a porter
