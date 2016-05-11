@@ -1,6 +1,7 @@
 ## Vegim Qehaja
 
-
+Natural born tinkerer and an experienced eCommerce individual . Adaptive to new situations and keen problem solver A graduate level developer with a true passion for programming and problem solving. Self motivated, driven and dedicated, an
+individual with experience running a small business and working with others in a start-up environment, as well as integrating into large groups in more established operations. Excellent at picking up new responsibilities and maintaining productivity due to having the innate thirst for learning required to acquire new skills and the perseverance to be continually improving. A proactive team player, used to leading by example, looking to gain a foothold in the fast-changing world of software development and learn from the ground up.
 
 #### Code Examples
 
