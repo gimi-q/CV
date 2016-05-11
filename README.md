@@ -2,7 +2,7 @@
 
 Natural born tinkerer and an experienced eCommerce individual. Adaptive to new situations and a keen problem solver. A graduate level developer with a true passion for programming and problem solving. Self motivated, driven and dedicated,with experience running a small business and working with others in a start-up environment, as well as integrating into large groups in more established operations. Excellent at picking up new responsibilities and maintaining productivity due to having the innate thirst for learning required to acquire new skills and the perseverance to be continually improving. 
 
-A proactive team player,looking to gain a foothold in the fast-changing world of software development and learn from the ground up and put my new found skills to use.
+A proactive team player, looking to gain a foothold in the fast-changing world of software development and learn from the ground up and put my new found skills to use.
 
 
 #### Skills
@@ -14,7 +14,7 @@ Research
 
 TDD
 
-Curiousty 
+Curiousity 
 
 Pair-Programming
 
@@ -85,24 +85,26 @@ Maintain high level of housekeeping within the warehouse environment.
 #### Net a porter
 
 Sample Coordinator Internship Sep 2010 – March 2011
+ 
+ Working under my manager responisibilities included:
 
- Request stock for the weekly upload and manage the multiple work lists to ensure deadlines are met.
+ - Request stock for the weekly upload and manage the multiple work lists to ensure deadlines are met.
 
- Receive and unpack daily deliveries from the warehouse and ensure the product is passed on as per the business service
+ - Receive and unpack daily deliveries from the warehouse and ensure the product is passed on as per the business service
 
 requirements.
 
- Calling in Samples from external PR’s and Designers.
+ - calling in Samples from external PR’s and Designers.
 
- Returning Samples called in from external PR’s.
+ - Returning Samples called in from external PR’s.
 
- Timely fulfilment of in-house request for Editorial shoots, PR requests and Marketing/Customer events.
+  - Timely fulfilment of in-house request for Editorial shoots, PR requests and Marketing/Customer events.
 
- Identify and organise products to be reallocated back to the warehouse, according to agreed guidelines.
+  - Identify and organise products to be reallocated back to the warehouse, according to agreed guidelines.
 
- Monitor the performance of staff in the sample room and feedback to the manager.
+  - Monitor the performance of staff in the sample room and feedback to the manager.
 
- Upkeep of Sample room and product inventory.
+  - Upkeep of Sample room and product inventory.
 
 ## Education
 
