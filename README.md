@@ -98,13 +98,13 @@ requirements.
 
  - Returning Samples called in from external PR’s.
 
-  - Timely fulfilment of in-house request for Editorial shoots, PR requests and Marketing/Customer events.
+ - Timely fulfilment of in-house request for Editorial shoots, PR requests and Marketing/Customer events.
 
-  - Identify and organise products to be reallocated back to the warehouse, according to agreed guidelines.
+ - Identify and organise products to be reallocated back to the warehouse, according to agreed guidelines.
 
-  - Monitor the performance of staff in the sample room and feedback to the manager.
+ - Monitor the performance of staff in the sample room and feedback to the manager.
 
-  - Upkeep of Sample room and product inventory.
+ - Upkeep of Sample room and product inventory.
 
 ## Education
 
