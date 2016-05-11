@@ -54,6 +54,16 @@ Maintain high level of housekeeping within the warehouse environment.
 #### Founder of Roots of London Gardens (2013 to present)
 
 
+#### Board Member & Project Leader - Balkans Peace Park Charity 2010-2011
+
+ Leading teams of upto 15 people into the mountains of Albania as part of B3Ps charity projects in Thethi - the highest and wildest part of Albania - key responsibilities were: 
+ 
+ -Marketing the project and atteacting paying potential candidates from Europe, Australia , Americe and Canada.
+ 
+ -Organising and helping teach permaculture and sustainability curriculums to students from all over the world.
+ 
+ -Teaching local school children english language and environmental conservations skills.
+
 
 #### Net a porter
 
