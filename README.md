@@ -6,7 +6,7 @@ A proactive team player,looking to gain a foothold in the fast-changing world of
 
 
 #### Skills
-Language Agnostic - Personally I am not attached to any one particular programming language - Every tool has its use and each one has its on inflection - I enjoy finding the similarities and disparities between different languages and the paradigms that are inherent to them therefore, I dont mind which language I use and can adapt easily to new tech contexts with minimal training.
+Language Agnostic - Personally I am not attached to any one particular programming language - Every tool has its use and each one has its own inflection - I enjoy finding the similarities and disparities between different languages and the paradigms that are inherent to them. Therefore, I dont mind which language I use and can adapt easily to new tech contexts with minimal training.
 
 Problem Solving
 
