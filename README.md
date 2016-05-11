@@ -1,6 +1,6 @@
 ## Vegim Qehaja
 
-Natural born tinkerer and an experienced eCommerce individual. Adaptive to new situations and keen problem solver. A graduate level developer with a true passion for programming and problem solving. Self motivated, driven and dedicated,with experience running a small business and working with others in a start-up environment, as well as integrating into large groups in more established operations. Excellent at picking up new responsibilities and maintaining productivity due to having the innate thirst for learning required to acquire new skills and the perseverance to be continually improving. 
+Natural born tinkerer and an experienced eCommerce individual. Adaptive to new situations and a keen problem solver. A graduate level developer with a true passion for programming and problem solving. Self motivated, driven and dedicated,with experience running a small business and working with others in a start-up environment, as well as integrating into large groups in more established operations. Excellent at picking up new responsibilities and maintaining productivity due to having the innate thirst for learning required to acquire new skills and the perseverance to be continually improving. 
 
 A proactive team player,looking to gain a foothold in the fast-changing world of software development and learn from the ground up and put my new found skills to use.
 
@@ -102,6 +102,17 @@ requirements.
 
 - Multiple Cousera certificates (I'm a big fan of e-learning)
 - Horticulture, Forestry & Aboriculture (Once upon a time, I was a gardener)
+- Permaculture Design Certificate - Studied and intensive PDC in france with renowned permaculturist Steve Read
+
+### Interests
+
+Hacking - Arduino and raspberry pis - regularly jumping into adhoc projects using servos , motors , pumps etc. Fascinated by creating semi-autonomous systems that anage themselves using an array of sensors - my home is strewn with the remnents of frankenstein projects (much to the chagrin of my partner).
+
+Permaculture - Love everything to do with plants - the environment and sustainability, permaculture is a system designed to work with the eco system rather than against it.
+
+Reading - Avid reader/researcher - often to be found burning the midnight oil traversing weird and wonderful ideas and concepts
+
+Music - Enjoy many differnet musical styles and worked as promoter and organiser of house and techno nights whilst occasionally venturing out to play pounding electronic music to overly inebriated youths at friends clubnights.
 
 ## Contact me
 
