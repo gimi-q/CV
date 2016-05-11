@@ -58,7 +58,7 @@ Maintain high level of housekeeping within the warehouse environment.
 
  Leading teams of upto 15 people into the mountains of Albania as part of B3Ps charity projects in Thethi - the highest and wildest part of Albania - key responsibilities were: 
  
- -Marketing the project and atteacting paying potential candidates from Europe, Australia , Americe and Canada.
+ -Marketing the project and attracting paying potential candidates from Europe, Australia , America and Canada.
  
  -Organising and helping teach permaculture and sustainability curriculums to students from all over the world.
  
