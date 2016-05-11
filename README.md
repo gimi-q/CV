@@ -5,7 +5,7 @@ Natural born tinkerer and an experienced eCommerce individual. Adaptive to new s
 A proactive team player, looking to gain a foothold in the fast-changing world of software development and learn from the ground up and put my new found skills to use.
 
 
-#### Skills
+## Skills
 Language Agnostic - Personally I am not attached to any one particular programming language - Every tool has its use and each one has its own inflection - I enjoy finding the similarities and disparities between different languages and the paradigms that are inherent to them. Therefore, I dont mind which language I use and can adapt easily to new tech contexts with minimal training.
 
 Problem Solving
@@ -20,7 +20,7 @@ Pair-Programming
 
 Agile 
 
-#### Code Examples
+## Code Examples
 
 | Github | Description | Technologies | See it live
 |-------------|-------------|-------------|-------------|
@@ -42,31 +42,31 @@ Planning and project management: installing new systems such as CCTV and product
 Created a ruby app for Shopify to send orders via FTP to the fulfilment house.
 Responsible for managing the day to day running of the website and warehouse from stock receipt, dispatch and customer returns ensuring excellent service is delivered to customers worldwide.
 
-Ensuring inbound stock, outbound orders and returns are processed accurately, securely and within agreed service levels.
+- Ensuring inbound stock, outbound orders and returns are processed accurately, securely and within agreed service levels.
 
-Developing and optimising internal systems and processes.
+- Developing and optimising internal systems and processes.
 
-Analyse and report on website performance.
+- Analyse and report on website performance.
 
- Drive the best customer experience online for all customers landing on the site.
+-  Drive the best customer experience online for all customers landing on the site.
 
- Scope out new UX functionality in order to improve conversion and drive sales online.
+-  Scope out new UX functionality in order to improve conversion and drive sales online.
 
-Support all users in the office and warehouse with IT issues.
+- Support all users in the office and warehouse with IT issues.
 
- Daily and weekly reporting on all functions, inventory, inbound receipt, outbound orders and returns.
+- Daily and weekly reporting on all functions, inventory, inbound receipt, outbound orders and returns.
 
-Managing carrier relationship in the delivery of orders and customer returns.
+- Managing carrier relationship in the delivery of orders and customer returns.
 
-Ensuring the maximum accuracy and security of stock.
+- Ensuring the maximum accuracy and security of stock.
 
-Managing packaging re-ordering.
+- Managing packaging re-ordering.
 
-Managing a specific online packaging process.
+- Managing a specific online packaging process.
 
-Regularly monitor the flow of orders.
+- Regularly monitor the flow of orders.
 
-Maintain high level of housekeeping within the warehouse environment.
+- Maintain high level of housekeeping within the warehouse environment.
 
 #### Founder of Roots of London Gardens (2013 to present)
 
@@ -123,7 +123,7 @@ requirements.
 - Horticulture, Forestry & Aboriculture (Once upon a time, I was a gardener)
 - Permaculture Design Certificate - Studied and intensive PDC in france with renowned permaculturist Steve Read
 
-### Interests
+## Interests
 
 Hacking - Arduino and raspberry pis - regularly jumping into adhoc projects using servos , motors , pumps etc. Fascinated by creating semi-autonomous systems that manage themselves using an array of sensors - my home is strewn with the remnents of frankenstein projects (much to the chagrin of my partner).
 
