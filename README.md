@@ -8,7 +8,7 @@
 |-------------|-------------|-------------|-------------|
 [Hotelligence web App](https://github.com/ric9176/hotel_check_in) [Ionic Native App](https://github.com/ric9176/Estimote) | Two week project with [Chris Wynne](https://github.com/wynndow), [Richard Moss](https://github.com/ric9176), [Ed Kerry](https://github.com/edwardkerry), using smartphones and beacons to speed up the hotel check-process, with real-time database integration | AngularJS, Firebase, Estimote Beacons, Cordova, Ionic, tested with Protractor and Karma-Jasmine | [YouTube](https://www.youtube.com/watch?v=63FJoC8dxus)
 [Instagram Challenge](https://github.com/ric9176/instagram-challenge) | Interesting for the time contraints, the challenge was to re-create instagram over a weekend. | Ruby on Rails, ActiveRecord, Omni-Auth, AWS, Bootstrap, tested with Rspec and Capybara. 
-[Rock, Paper, Scissors](https://github.com/ric9176/rps-challenge) | A thrilling battle of wits against humanity's ancient enemy: **The Computer**. | Ruby, Sinatra, tested with RSpec and Capybara. 
+[Rock, Paper, Scissors](https://github.com/ric9176/rps-challenge) | Re-create the childhood classic. | Ruby, Sinatra, tested with RSpec and Capybara. 
 
 ## Relevant Experience 
 
