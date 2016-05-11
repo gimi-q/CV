@@ -63,7 +63,7 @@ Maintain high level of housekeeping within the warehouse environment.
  
  -Organising and helping teach permaculture and sustainability curriculums to students from all over the world.
  
- -Teaching local school children english language and environmental conservations skills.
+ -Teaching local school children english language and environmental conservation skills.
 
 
 #### Net a porter
