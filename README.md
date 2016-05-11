@@ -106,7 +106,7 @@ requirements.
 
 ### Interests
 
-Hacking - Arduino and raspberry pis - regularly jumping into adhoc projects using servos , motors , pumps etc. Fascinated by creating semi-autonomous systems that anage themselves using an array of sensors - my home is strewn with the remnents of frankenstein projects (much to the chagrin of my partner).
+Hacking - Arduino and raspberry pis - regularly jumping into adhoc projects using servos , motors , pumps etc. Fascinated by creating semi-autonomous systems that manage themselves using an array of sensors - my home is strewn with the remnents of frankenstein projects (much to the chagrin of my partner).
 
 Permaculture - Love everything to do with plants - the environment and sustainability, permaculture is a system designed to work with the eco system rather than against it.
 
