@@ -57,6 +57,26 @@ Maintain high level of housekeeping within the warehouse environment.
 
 #### Net a porter
 
+Sample Coordinator Internship Sep 2010 – March 2011
+
+ Request stock for the weekly upload and manage the multiple work lists to ensure deadlines are met.
+
+ Receive and unpack daily deliveries from the warehouse and ensure the product is passed on as per the business service
+
+requirements.
+
+ Calling in Samples from external PR’s and Designers.
+
+ Returning Samples called in from external PR’s.
+
+ Timely fulfilment of in-house request for Editorial shoots, PR requests and Marketing/Customer events.
+
+ Identify and organise products to be reallocated back to the warehouse, according to agreed guidelines.
+
+ Monitor the performance of staff in the sample room and feedback to the manager.
+
+ Upkeep of Sample room and product inventory.
+
 ## Education
 
 #### Makers Academy (Nov 2015 to Feb 2016)
@@ -64,7 +84,7 @@ Maintain high level of housekeeping within the warehouse environment.
 - Intensive 12-week course at Europe's leading Web Developer bootcamp  
 - Weekly paired-programming curriculum with individual weekend challenges
 
-#### Goldsmiths Unitverisy (2008-2012) 
+#### Goldsmiths University (2008-2010) 
 
 - 3-year BA degree in Anthropology and Sociology
 
