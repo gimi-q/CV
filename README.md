@@ -20,8 +20,8 @@ Agile - Farewell to Waterfall. Agile methodoligies help keep a project relevant 
 
 ## Code Examples
 
-| Github | Description | Technologies | See it live
-|-------------|-------------|-------------|-------------|
+| Github | Description | Technologies |
+|-------------|-------------|-------------|
 [Hotelligence web App](https://github.com/ric9176/hotel_check_in) [Ionic Native App](https://github.com/ric9176/Estimote) | Two week project with [Chris Wynne](https://github.com/wynndow), [Richard Moss](https://github.com/ric9176), [Ed Kerry](https://github.com/edwardkerry), using smartphones and beacons to speed up the hotel check-process, with real-time database integration | AngularJS, Firebase, Estimote Beacons, Cordova, Ionic, tested with Protractor and Karma-Jasmine 
 [Chitter Challenge](https://github.com/gimi-q/instagram-challenge) | A simple twitter alternative  | Ruby on Rails, ActiveRecord, AWS, Bootstrap, tested with Rspec and Capybara.
 [Instagram Challenge](https://github.com/gimi-q/instagram-challenge) | Interesting for the time contraints, the challenge was to re-create instagram over a weekend. | Ruby on Rails, ActiveRecord, Omni-Auth, AWS, Bootstrap, tested with Rspec and Capybara. 
