@@ -10,7 +10,7 @@ Language Agnostic - Personally I am not attached to any one particular programmi
 
 Problem Solving - The stuff of life, You can't get away from problems in the real world and the world of programming it is much the same. Its what you learn from the problem at hand that matters. YOu are always being taught something and this facet of programming feeds my interest the most. The problems are so varied and multiplex which keeps me fired up and hungry to learn more - no problem or program is ever exactly the same. 
 
-TDD/BDD - Red, Green, Refactor. With the a problem defined BDD and TDD helps break down a problem into its smaller parts, write code that is relevant and less verbose. Gives me greater confidence to jump into code and make changes especially as complexity increases. Plus you do not need to write comments as documentation - a good test suite acts as your self-validating documentation.
+TDD/BDD - Red, Green, Refactor. With the a problem defined BDD and TDD helps break down a specification into its smaller parts, write code that is relevant and less verbose. Gives me greater confidence to jump into code and make changes especially as complexity increases. Plus you do not need to write comments as documentation - a good test suite acts as your self-validating documentation.
 
 Research/Curiousity - When confronted with a problem, I like to weigh up the possibilities and consider the opportunity cost involved with each decision before I make the leap. Standing on the shoulders of giants and building on the work of others can be very useful in informing what design descisions to make with a given problem set.
 
