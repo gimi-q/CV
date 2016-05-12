@@ -14,7 +14,7 @@ TDD/BDD - Red, Green, Refactor. With the a problem defined BDD and TDD helps bre
 
 Research/Curiousity - When confronted with a problem, I like to weigh up the possibilities and consider the opportunity cost involved with each decision before I make the leap. Standing on the shoulders of giants and building on the work of others can be very useful in informing what design descisions to make with a given problem set.
 
-Pair-Programming - Two heads are better than one (most of the time) - working in a pair effectivley can speed up development and reduce errors when done properly. The sum is truly greater than its parts when teams work well together - a good pair is one of the key building blocks to a good dev team (although I do enjoy working solo too).
+Pair-Programming - Two heads are better than one (most of the time) - working in a pair effectivley can speed up development and reduce errors when done properly. The sum is truly greater than its parts when teams work well together - a good pair is one of the key building blocks to a good dev team (although I do enjoy working solo too). The amount of learning through this osmotic process of pairing daily at Makers Academy from day one has greatly aided my learning and understanding of best practices.
 
 Agile - Farewell to Waterfall. Agile methodoligies help keep a project relevant and on time.  I respect the aims and intentions of agile processes - although I am careful to consider agile as a means to an end and not an end in itself (agile processes vs Agile - Everybody loves a keyword these days.) . My time at makers helped me understand the value of Agile processes through daily intra and inter team standups and code-reviews. 
 
