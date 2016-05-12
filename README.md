@@ -8,17 +8,15 @@ A proactive team player, looking to gain a foothold in the fast-changing world o
 ## Skills
 Language Agnostic - Personally I am not attached to any one particular programming language - Every tool has its use and each one has its own inflection - I enjoy finding the similarities and disparities between different languages and the paradigms that are inherent to them. Therefore, I dont mind which language I use and can adapt easily to new tech contexts with minimal training.
 
-Problem Solving
+Problem Solving - The stuff of life, You can't get away from problems in the real world and the world of programming it is much the same. Its what you learn from the problem at hand that matters. YOu are always being taught something and this facet of programming feeds my interest the most. The problems are so varied and multiplex which keeps me fired up and hungry to learn more - no problem or program is ever exactly the same. 
 
-Research
+TDD/BDD - Red, Green, Refactor. With the a problem defined BDD and TDD helps break down a problem into its smaller parts, write code that is relevant and less verbose. Gives me greater confidence to jump into code and make changes especially as complexity increases. Plus you do not need to write comments as documentation - a good test suite acts as your self-validating documentation.
 
-TDD
+Research/Curiousity - When confronted with a problem, I like to weigh up the possibilities and consider the opportunity cost involved with each decision before I make the leap. Standing on the shoulders of giants and building on the work of others can be very useful in informing what design descisions to make with a given problem set.
 
-Curiousity 
+Pair-Programming - Two heads are better than one (most of the time) - working in a pair effectivley can speed up development and reduce errors when done properly. The sum is truly greater than its parts when teams work well together - a good pair is one of the key building blocks to a good dev team (although I do enjoy working solo too).
 
-Pair-Programming
-
-Agile 
+Agile - Farewell to Waterfall. Agile methodoligies help keep a project relevant and on time.  I respect the aims and intentions of agile processes - although I am careful to consider agile as a means to an end and not an end in itself (agile processes vs Agile - Everybody loves a keyword these days.) . My time at makers helped me understand the value of Agile processes through daily intra and inter team standups and code-reviews. 
 
 ## Code Examples
 
