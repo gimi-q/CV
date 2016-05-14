@@ -4,13 +4,12 @@ Natural born tinkerer and an experienced eCommerce individual. Adaptive to new s
 
 A proactive team player, looking to gain a foothold in the fast-changing world of software development and learn from the ground up and put my new found skills to use.
 
-
 ## Skills
-Language Agnostic - Personally I am not attached to any one particular programming language - Every tool has its use and each one has its own inflection - I enjoy finding the similarities and disparities between different languages and the paradigms that are inherent to them. Therefore, I dont mind which language I use and can adapt easily to new tech contexts with minimal training.
+Language Agnostic - Personally I am not attached to any one particular programming language. Every tool has its use and each one has its own inflection, I enjoy finding the similarities and disparities between different languages and the paradigms that are inherent to them. Therefore, I dont mind which language I use and can adapt easily to new tech contexts with minimal training.
 
-Problem Solving - The stuff of life, You can't get away from problems in the real world and the world of programming it is much the same. Its what you learn from the problem at hand that matters. YOu are always being taught something and this facet of programming feeds my interest the most. The problems are so varied and multiplex which keeps me fired up and hungry to learn more - no problem or program is ever exactly the same. 
+Problem Solving - The stuff of life, You can't get away from problems in the real world and the world of programming it is much the same. Its what you learn from the problem at hand that matters. You are always being taught something and this facet of programming feeds my interest the most. The problems are so varied and multiplex which keeps me fired up and hungry to learn more - no problem or program is ever exactly the same. 
 
-TDD/BDD - Red, Green, Refactor. With the a problem defined BDD and TDD helps break down a specification into its smaller parts, write code that is relevant and less verbose.Furhtermore, it Gives myself and others greater confidence to jump into code and make changes (especially as program complexity increases). Plus you do not need to write comments as documentation - a good test suite acts as your self-validating documentation.
+TDD/BDD - Red, Green, Refactor. With the problem defined, BDD and TDD help break down a specification into its smaller parts, aiding me in my effort to write code that is relevant and less verbose. Furthermore, it gives myself and others greater confidence to jump into code and make changes (especially as program complexity increases). Plus, you do not need to write comments as documentation - a good test suite acts as your self-validating documentation.
 
 Research/Curiousity - When confronted with a problem, I like to weigh up the possibilities and consider the opportunity cost involved with each decision before I make the leap. Standing on the shoulders of giants and building on the work of others can be very useful in informing what design descisions to make with a given problem set.
 
