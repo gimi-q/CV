@@ -65,8 +65,6 @@ Responsible for managing the day to day running of the website and warehouse fro
 
 - Maintain high level of housekeeping within the warehouse environment.
 
-#### Founder of Roots of London Gardens (2013 to present)
-
 
 #### Board Member & Project Leader - Balkans Peace Park Charity 2010-2011
 
