@@ -22,14 +22,13 @@ Agile - Farewell to Waterfall. Agile methodoligies help keep a project relevant 
 | Github | Description | Technologies |
 |-------------|-------------|-------------|
 [Hotelligence web App](https://github.com/ric9176/hotel_check_in) [Ionic Native App](https://github.com/ric9176/Estimote) | Two week project with [Chris Wynne](https://github.com/wynndow), [Richard Moss](https://github.com/ric9176), [Ed Kerry](https://github.com/edwardkerry), using smartphones and beacons to speed up the hotel check-process, with real-time database integration | AngularJS, Firebase, Estimote Beacons, Cordova, Ionic, tested with Protractor and Karma-Jasmine 
-[Chitter Challenge](https://github.com/gimi-q/instagram-challenge) | A simple twitter alternative  | Ruby on Rails, ActiveRecord, AWS, Bootstrap, tested with Rspec and Capybara.
+[Chitter Challenge](https://github.com/gimi-q/Chitter__The_Twitter_Clone) | A simple twitter alternative  | Ruby on Rails, ActiveRecord, AWS, Bootstrap, tested with Rspec and Capybara.
 [Instagram Challenge](https://github.com/gimi-q/instagram-challenge) | Interesting for the time contraints, the challenge was to re-create instagram over a weekend. | Ruby on Rails, ActiveRecord, Omni-Auth, AWS, Bootstrap, tested with Rspec and Capybara. 
 [Rock, Paper, Scissors](https://github.com/gimi-q/rps-challenge) | Re-create the childhood classic. | Ruby, Sinatra, tested with RSpec and Capybara. 
 
 ## Relevant Experience 
 
 #### Operations and Tech assistant at Tara Starlet
-
 
 Team work: working in a small business I learned that every member of the team has a responsibility to improving customer experience and thus boosting sales and overall business performance, you use your time productively and always with the best interests of the company in mind. Streamlining systems and processes: always looking for ways that existing systems can be optimised and noticing when a new system could be implemented to improve productivity.
 
