@@ -1,19 +1,24 @@
 ## Vegim Qehaja
 
-Natural born tinkerer and an experienced eCommerce individual. Adaptive to new situations and a keen problem solver. A graduate level developer with a true passion for programming and problem solving. Self motivated, driven and dedicated,with experience running a small business and working with others in a start-up environment, as well as integrating into large groups in more established operations. Excellent at picking up new responsibilities and maintaining productivity due to having the innate thirst for learning required to acquire new skills and the perseverance to be continually improving. 
+Natural born tinkerer and an experienced eCommerce individual. Adaptive to new situations and a keen problem solver. 
 
-A proactive team player, looking to gain a foothold in the fast-changing world of software development and learn from the ground up and put my new found skills to use.
+
+Self motivated, driven and dedicated, with experience running a small business and working with others in a start-up environment, as well as integrating into large groups in more established operations. Excellent at picking up new responsibilities and maintaining productivity due to having the innate thirst for learning required to acquire new skills and the perseverance to be continually improving. 
+
+Having spent a year or two self learning with Arduino and Raspberry Pi I realised I loved coding and decided on jumping into this field of work head by investing time and money in pursuing a career in programming.
+
+Recently graduated from Makers Academy, Europes leading coding bootcamp and now looking to take on more responsiblity as a junior level developer to build on my passion for programming and problem solving, challenging myself daily to further my journey from junior to craftsmen by learning from the ground up and putting my new found skills to use.
 
 ## Skills
 Language Agnostic - Personally I am not attached to any one particular programming language. Every tool has its use and each one has its own inflection, I enjoy finding the similarities and disparities between different languages and the paradigms that are inherent to them. Therefore, I dont mind which language I use and can adapt easily to new tech contexts with minimal training.
 
-Problem Solving - The stuff of life, You can't get away from problems in the real world and in the world of programming it is much the same. It's what you learn from the problem at hand that matters. You are always being taught something and this facet of programming feeds my interest the most. The problems are so varied and multiplex which keeps me fired up and hungry to learn more - no problem or program is ever exactly the same. 
+Problem Solving - The stuff of life, You can't get away from problems in the real world and in the world of programming it is much the same. It's what you learn from the problem at hand that matters. You are always being taught something and this facet of programming feeds my interest the most. The problems are so varied and multiplex and this keeps me fired up and hungry to learn more - no problem or program is ever exactly the same. 
 
-TDD/BDD - Red, Green, Refactor. With the problem defined, BDD and TDD help break down a specification into its smaller parts, aiding me in my effort to write code that is relevant and less verbose. Furthermore, it gives myself and others greater confidence to jump into code and make changes (especially as program complexity increases). Plus, you do not need to write comments as documentation - a good test suite acts as your self-validating documentation.
+TDD/BDD - Red, Green, Refactor. With the problem defined, BDD and TDD help break down a specification into its smaller parts, aiding me in my effort to write code that is relevant and less verbose. Furthermore, it gives myself and others greater confidence to jump into a particular codebase and make changes (especially as program complexity increases). This lessend the dependcies on comments clutter the codebase you since a good test suite acts as self-validating documentation for yourself and others.
 
 Research/Curiousity - When confronted with a problem, I like to weigh up the possibilities and consider the opportunity cost involved with each decision before I make the leap. Standing on the shoulders of giants and building on the work of others can be very useful in informing what design descisions to make with a given problem set.
 
-Pair-Programming - Two heads are better than one (most of the time) - working in a pair effectivley can speed up development and reduce errors when done properly. The sum is truly greater than its parts when teams work well together - a good pair is one of the key building blocks to a good dev team (although I do enjoy working solo too). The amount of learning through this osmotic process of pairing daily at Makers Academy from day one has greatly aided my learning and understanding of best practices.
+Pair-Programming - Two heads are better than one (most of the time) - working in a pair effectivley can speed up development and reduce errors when done properly. The sum is truly greater than its parts when teams work well together. The amount of learning through this osmotic process of pairing daily at Makers Academy from day one has greatly aided my learning and understanding of best practices.
 
 Agile - Farewell to Waterfall. Agile methodoligies help keep a project relevant and on time.  I respect the aims and intentions of agile processes - although I am careful to consider agile as a means to an end and not an end in itself (agile processes vs Agile - Everybody loves a keyword these days.) . My time at makers helped me understand the value of Agile processes through daily intra and inter team standups and code-reviews. 
 
@@ -25,6 +30,25 @@ Agile - Farewell to Waterfall. Agile methodoligies help keep a project relevant 
 [Chitter Challenge](https://github.com/gimi-q/Chitter__The_Twitter_Clone) | A simple twitter alternative  | Ruby on Rails, ActiveRecord, AWS, Bootstrap, tested with Rspec and Capybara.
 [Instagram Challenge](https://github.com/gimi-q/instagram-challenge) | Interesting for the time contraints, the challenge was to re-create instagram over a weekend. | Ruby on Rails, ActiveRecord, Omni-Auth, AWS, Bootstrap, tested with Rspec and Capybara. 
 [Rock, Paper, Scissors](https://github.com/gimi-q/rps-challenge) | Re-create the childhood classic. | Ruby, Sinatra, tested with RSpec and Capybara. 
+
+## Education
+
+#### Makers Academy (Nov 2015 to Feb 2016)
+
+- Intensive 12-week course at Europe's leading Web Developer bootcamp  
+- Weekly paired-programming curriculum with individual weekend challenges
+
+#### Goldsmiths University (2008-2010) 
+
+- 3-year BA degree in Anthropology and Sociology
+
+#### Other qualifications
+
+- Multiple Cousera certificates (I'm a big fan of e-learning)
+- Horticulture, Forestry & Aboriculture (Once upon a time, I was a gardener)
+- Permaculture Design Certificate - Studied and intensive PDC in france with renowned permaculturist Steve Read
+
+
 
 ## Relevant Experience 
 
@@ -100,22 +124,7 @@ requirements.
 
  - Upkeep of Sample room and product inventory.
 
-## Education
 
-#### Makers Academy (Nov 2015 to Feb 2016)
-
-- Intensive 12-week course at Europe's leading Web Developer bootcamp  
-- Weekly paired-programming curriculum with individual weekend challenges
-
-#### Goldsmiths University (2008-2010) 
-
-- 3-year BA degree in Anthropology and Sociology
-
-#### Other qualifications
-
-- Multiple Cousera certificates (I'm a big fan of e-learning)
-- Horticulture, Forestry & Aboriculture (Once upon a time, I was a gardener)
-- Permaculture Design Certificate - Studied and intensive PDC in france with renowned permaculturist Steve Read
 
 ## Interests
 
