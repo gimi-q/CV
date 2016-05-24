@@ -5,7 +5,7 @@ Natural born tinkerer and an experienced eCommerce individual. Adaptive to new s
 
 Self motivated, driven and dedicated, with experience running a small business and working with others in a start-up environment, as well as integrating into large groups in more established operations. Excellent at picking up new responsibilities and maintaining productivity due to having the innate thirst for learning required to acquire new skills and the perseverance to be continually improving. 
 
-Having spent a year or two self learning with Arduino and Raspberry Pi I realised I loved coding and decided on jumping into this field of work head by investing time and money in pursuing a career in programming.
+Having spent a year or two self learning with Arduino and Raspberry Pi I realised I loved coding and decided to jump into this field of work head first by pursuing a career in programming.
 
 Recently graduated from Makers Academy, Europes leading coding bootcamp and now looking to take on more responsiblity as a junior level developer to build on my passion for programming and problem solving, challenging myself daily to further my journey from junior to craftsmen by learning from the ground up and putting my new found skills to use.
 
