@@ -59,7 +59,7 @@ Agile - Farewell to Waterfall. Agile methodoligies help keep a project relevant 
 
 #### Goldsmiths University (2008-2010) 
 
-- 3-year BA degree in Anthropology and Sociology
+- 2:1 BA degree in Anthropology and Sociology
 
 #### Other qualifications
 
