@@ -9,6 +9,25 @@ Having spent a year or two self learning with Arduino and Raspberry Pi I realise
 
 Recently graduated from Makers Academy, Europes leading coding bootcamp and now looking to take on more responsiblity as a junior level developer to build on my passion for programming and problem solving, challenging myself daily to further my journey from junior to craftsmen by learning from the ground up and putting my new found skills to use.
 
+## Tech
+
+#Ruby
+
+Rails, Rspec
+
+#Javascript
+
+Node, Angular , Jasmine, Karma
+
+#Python
+
+Django, Beautfiful Soup
+
+#Misc
+
+Postgres, Firebase, Ionic
+
+
 ## Skills
 Language Agnostic - Personally I am not attached to any one particular programming language. Every tool has its use and each one has its own inflection, I enjoy finding the similarities and disparities between different languages and the paradigms that are inherent to them. Therefore, I dont mind which language I use and can adapt easily to new tech contexts with minimal training.
 
