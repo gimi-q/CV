@@ -11,19 +11,19 @@ Recently graduated from Makers Academy, Europes leading coding bootcamp and now 
 
 ## Tech
 
-###Ruby
+####Ruby
 
 Rails, Rspec
 
-###Javascript
+####Javascript
 
 Node, Angular , Jasmine, Karma
 
-###Python
+####Python
 
 Django, Beautfiful Soup
 
-###Misc
+####Misc
 
 Postgres, Firebase, Ionic
 
