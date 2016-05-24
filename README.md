@@ -17,7 +17,7 @@ Rails, Rspec
 
 ####Javascript
 
-Node, Angular , Jasmine, Karma
+Node, Angular, Jasmine, Karma
 
 ####Python
 
@@ -25,7 +25,7 @@ Django, Beautfiful Soup
 
 ####Misc
 
-Postgres, Firebase, Ionic
+Postgres, Firebase, Ionic, TDD/BDD
 
 
 ## Skills
