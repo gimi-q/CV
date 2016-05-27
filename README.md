@@ -42,7 +42,7 @@ Research/Curiosity - When confronted with a problem, I like to weigh up the poss
 
 Pair-Programming - Two heads are better than one (most of the time) - working in a pair effectively can speed up development and reduce errors when done properly. The sum is truly greater than its parts when teams work well together. The amount of learning through this osmotic process of pairing daily at Makers Academy from day one has greatly aided my learning and understanding of best practices.
 
-Agile - Farewell to Waterfall. Agile methodologies help keep a project relevant and on time.  I respect the aims and intentions of agile processes. Short iterations help identify any issues early on in the project in turn helping produce more accurate and concise solutions to a problem. My time at makers helped me understand the value of Agile processes through daily intra and inter team standups and code-reviews. 
+Agile - Farewell to Waterfall. Agile methodologies help keep a project relevant and on time.  I respect the aims and intentions of agile processes. Short iterations help identify any issues early on in the project in turn helping produce more accurate and concise solutions to a problem. My time at makers helped me understand the value of agile processes through daily intra and inter team standups and code-reviews. 
 
 ## Code Examples
 
