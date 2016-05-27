@@ -27,7 +27,7 @@ Django, Beautiful Soup
 
 ####Misc
 
-Postgres, Firebase, Ionic, TDD/BDD
+Postgres, Firebase, Ionic, TDD/BDD, Linux, NoSql
 
 
 ## Skills
