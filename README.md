@@ -160,6 +160,6 @@ Music - Enjoy many different musical styles and worked as promoter and organiser
 
 ## Contact me
 
-- vegim_q@gmail.com
+- vegim_q@outlook.com
 - https://www.linkedin.com/in/vegimQehaja
 - http://www.codewars.com/users/gimi-q
