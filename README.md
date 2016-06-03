@@ -13,11 +13,11 @@ Recently graduated from Makers Academy, Europes leading coding boot camp and now
 
 ####Ruby
 
-Rails, Rspec
+Rails, Rspec, Capybara
 
 ####Javascript
 
-Node, Angular, Jasmine, Karma
+Node, Angular, Jasmine, Karma, Protractor
 
 ####Python
 
@@ -30,7 +30,7 @@ Postgres, Firebase, Ionic, TDD/BDD, Git, Linux, NoSql
 
 ## Skills
 
-Programming -  A Frim grasp of OOP, MVC and SOLID concepts. Following best practices and agile methodologies my coding idols are Robert Martin, Ken Beck, Sandi Metz and Martin Fowler. I regularly imbibe videos and books produced by these code giants applying the insight they provide into well-tested programming principles.  
+Programming -  A Firm grasp of OOP, MVC and SOLID concepts. Following best practices and agile methodologies my coding idols are Robert Martin, Ken Beck, Sandi Metz and Martin Fowler. I regularly imbibe videos and books produced by these code giants applying the insight they provide into well-tested programming principles.  
 
 Language Agnostic - Personally I am not attached to any one particular programming language. Every tool has its use and each one has its own inflexion, I enjoy finding the similarities and disparities between different languages and the paradigms that are inherent to them. Therefore, I don't mind which language I use and can adapt easily to new tech contexts with minimal training.
 
