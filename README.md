@@ -30,25 +30,21 @@ Postgres, Firebase, Ionic, TDD/BDD, Git, Linux, NoSql
 
 ## Skills
 
-Programming -  A Firm grasp of OOP, MVC and SOLID concepts. Following best practices and agile methodologies my coding idols are Robert Martin, Kent Beck, David Thomas , Sandi Metz and Martin Fowler. I regularly imbibe videos and books produced by these code giants applying the insight they provide into well-tested programming principles.  
+Language Agnostic - Personally I am not attached to any one particular programming language. Every tool has its use and each one has its own inflexion, I enjoy finding the similarities and disparities between them. 
 
-Language Agnostic - Personally I am not attached to any one particular programming language. Every tool has its use and each one has its own inflexion, I enjoy finding the similarities and disparities between different languages and the paradigms that are inherent to them. Therefore, I don't mind which language I use and can adapt easily to new tech contexts with minimal training.
+Problem Solving -  Able to find solutions to issues through research and thrive on being given the responsibility to do so. 
 
-Problem Solving - The stuff of life, You can't get away from problems in the real world and in the world of programming it is much the same. It's what you learn from the problem at hand that matters. You are always being taught something and this facet of programming feeds my interest the most. The problems are so varied and multiplex and this keeps me fired up and hungry to learn more - no problem or program is ever exactly the same. 
+TDD/BDD & Testing -  BDD and TDD help break down a specification into its smaller parts. Every project completed at makers was created using TDD principles. Furthermore, it gives others greater confidence when diving into a particular codebase and make changes (especially as program complexity increases). 
 
-TDD/BDD - Red, Green, Refactor. With the problem defined, BDD and TDD help break down a specification into its smaller parts, aiding me in my effort to write code that is relevant and less verbose. Furthermore, it gives others greater confidence when diving into a particular codebase and make changes (especially as program complexity increases). This lessened the dependencies on comments clutter the codebase you since a good test suite acts as self-validating documentation for yourself and others.
+Pair-Programming/Collaboration - Pairing daily at Makers Academy from day one has greatly aided my learning and understanding of best practices. It also gives an insight into how other people think about the same problem. 
 
-Research/Curiosity - When confronted with a problem, I like to weigh up the possibilities and consider the opportunity cost involved with each decision before I make the leap. Standing on the shoulders of giants and building on the work of others can be very useful in informing what design decisions to make with a given problem set.
-
-Pair-Programming - Two heads are better than one (most of the time) - working in a pair effectively can speed up development and reduce errors when done properly. The sum is truly greater than its parts when teams work well together. The amount of learning through this osmotic process of pairing daily at Makers Academy from day one has greatly aided my learning and understanding of best practices.
-
-Agile - Farewell to Waterfall. Agile methodologies help keep a project relevant and on time.  I respect the aims and intentions of agile processes. Short iterations help identify any issues early on in the project in turn helping produce more accurate and concise solutions to a problem. My time at makers helped me understand the value of agile processes through daily intra and inter team standups and code-reviews. 
+Agile - My time at makers helped me understand the value of agile processes through daily intra/inter team stand-ups, code-reviews and short iterations focusing on concise user stories.
 
 ## Code Examples
 
 | Github | Description | Technologies |
 |-------------|-------------|-------------|
-[Hotelligence web App](https://github.com/ric9176/hotel_check_in) [Ionic Native App](https://github.com/ric9176/Estimote) | Two week project with [Chris Wynne](https://github.com/wynndow), [Richard Moss](https://github.com/ric9176), [Ed Kerry](https://github.com/edwardkerry), using smartphones and beacons to speed up the hotel check-process, with real-time database integration | AngularJS, Firebase, Estimote Beacons, Cordova, Ionic, tested with Protractor and Karma-Jasmine 
+[Hotelligence web App](https://github.com/ric9176/hotel_check_in) [Ionic Native App](https://github.com/ric9176/Estimote) | Two week project with [Chris Wynne](https://github.com/wynndow), [Richard Moss](https://github.com/ric9176), [Ed Kerry](https://github.com/edwardkerry), using smartphones and beacons to speed up the hotel check-in process, with real-time database integration | AngularJS, Firebase, Estimote Beacons, Cordova, Ionic, tested with Protractor and Karma-Jasmine 
 [Chitter Challenge](https://github.com/gimi-q/Chitter__The_Twitter_Clone) | A simple twitter alternative  | Ruby on Rails, ActiveRecord, AWS, Bootstrap, tested with Rspec and Capybara.
 [Instagram Challenge](https://github.com/gimi-q/instagram-challenge) | Interesting for the time constraints, the challenge was to re-create instagram over a weekend. | Ruby on Rails, ActiveRecord, Omni-Auth, AWS, Bootstrap, tested with Rspec and Capybara. 
 [Rock, Paper, Scissors](https://github.com/gimi-q/rps-challenge) | Re-create the childhood classic. | Ruby, Sinatra, tested with RSpec and Capybara. 
